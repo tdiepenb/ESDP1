@@ -167,3 +167,5 @@ cython_debug/
 /icon_grid_0019_R02B05_G.nc
 /surfacedata.nc
 /surfacedata_regrid.nc
+/data.nc
+/regrid_data.nc
