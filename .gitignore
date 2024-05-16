@@ -162,9 +162,15 @@ cython_debug/
 
 # Ignore API
 .cdsapirc
+
+
+#ignore files
+grids/
+output/
+input/
 /test.nc
-/icon_grid_0001_R02B05_R.nc
-/icon_grid_0019_R02B05_G.nc
+/grids/icon_grid_0001_R02B05_R.nc
+/grids/icon_grid_0019_R02B05_G.nc
 /surfacedata.nc
 /surfacedata_regrid.nc
 /data.nc
